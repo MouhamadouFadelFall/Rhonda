@@ -1,0 +1,6 @@
+{
+  "name": "RHONDA — Ordinateur de Bord",
+  "description": "Plateforme orchestratrice RHONDA : RHONDA v1.0 Validation (fondation validée), RHONDA Master Architecture (vision cible & chaîne géospatiale), Cockpit et sécurité.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
